@@ -1,4 +1,4 @@
-<img alt="React Tailwind Boilerplate" src="" />
+<img alt="React Tailwind Boilerplate" src="https://github.com/xNoJustice/react-fast-typing-app/blob/cae1886d97572bf95f81e19594c5139e768472f1/app.gif" />
 
 ## Install & Start
 
